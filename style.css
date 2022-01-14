@@ -1,0 +1,9 @@
+.header{
+  background-color: #CCCCFF;
+  color: white;
+  height: 200px;
+}
+
+.header-text{
+  padding: 10px 20px;
+}
